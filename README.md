@@ -1,1 +1,1 @@
-# AutomatizationWorkshop
+# Automatization Workshop
